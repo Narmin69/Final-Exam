@@ -1,0 +1,65 @@
+{
+  "cards": [
+    {
+      "img": "https://preview.colorlib.com/theme/drimo/drimo/img/icon/ss-icon-1.png",
+      "id": "1",
+      "title": "Cloud Hosting",
+      "info": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered.",
+      "price": "5"
+    },
+    {
+      "img": "https://preview.colorlib.com/theme/drimo/drimo/img/icon/ss-icon-2.png",
+      "id": "2",
+      "title": "Web Hosting",
+      "info": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered.",
+      "price": "3"
+    },
+    {
+      "img": "https://preview.colorlib.com/theme/drimo/drimo/img/icon/ss-icon-3.png",
+      "id": "3",
+      "title": "Share Hosting",
+      "info": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered.",
+      "price": "6"
+    },
+    {
+      "img": "https://preview.colorlib.com/theme/drimo/drimo/img/icon/ss-icon-4.png",
+      "id": "4",
+      "title": "VPS Derver",
+      "info": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered.",
+      "price": "7"
+    },
+    {
+      "img": "https://preview.colorlib.com/theme/drimo/drimo/img/icon/ss-icon-5.png",
+      "id": "5",
+      "title": "WHCMS",
+      "info": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered.",
+      "price": "8"
+    },
+    {
+      "img": "https://preview.colorlib.com/theme/drimo/drimo/img/icon/ss-icon-6.png",
+      "id": "6",
+      "title": "24/7 Support",
+      "info": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered.",
+      "price": "9"
+    },
+    {
+      "img": "https://preview.colorlib.com/theme/drimo/drimo/img/icon/ss-icon-7.png",
+      "id": "7",
+      "title": "Windows Hosting",
+      "info": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered.",
+      "price": "10"
+    },
+    {
+      "img": "./FINALEXAM/images/undefined",
+      "title": "ffcr",
+      "info": "hggf",
+      "id": "P1d8A2b"
+    },
+    {
+      "img": "./FINALEXAM/images/testimonial.png",
+      "title": "wdfwef",
+      "info": "efwef",
+      "id": "PDMfgZj"
+    }
+  ]
+}
